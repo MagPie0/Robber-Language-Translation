@@ -1,0 +1,28 @@
+Margaret "Maggie" Hillebrecht
+2455754
+hillebrecht@chapman.edu
+CPSC 350 Section 1
+
+A1
+
+Source Files:
+English.txt
+main.cpp
+FileProcessor.cpp
+FileProcessor.h
+Translator.cpp
+Translator.h
+Model.cpp
+Model.h
+
+References:
+I spoke with Professor Rene in his office hours because I needed help bug 
+fixing my Model and Translator class as well as just making sure my mind was in
+the right direction in regards to how I thought to program this assignment.
+
+I used ChatGPT in the beginning of my work to bug fix when it came to inserting
+a character into a string and how to convert a character into a string variable.
+https://chat.openai.com/share/745ebb76-7dab-4ecb-9876-84249866f006
+
+I also referenced some of Rene's CPSC 298 videos when going over inFile and outFile
+in my File Processor class.
